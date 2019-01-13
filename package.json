@@ -1,6 +1,6 @@
 {
   "name": "utility-function",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Quick and easy calculation of the utility function.",
   "main": "index.js",
   "scripts": {
