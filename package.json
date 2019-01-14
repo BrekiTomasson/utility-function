@@ -3,8 +3,9 @@
   "version": "1.0.1",
   "description": "Quick and easy calculation of the utility function.",
   "main": "index.js",
-  "scripts": {
-    "test": "test"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BrekiTomasson/utility-function.git"
   },
   "devDependencies": {
     "eslint-config-breki": "^1.0.20",
